@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+# Raw data is downloaded by the user (see data/README.md)
+part1_cookie_cats/data/*.csv
