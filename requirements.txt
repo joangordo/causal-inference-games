@@ -5,3 +5,6 @@ statsmodels>=0.14
 matplotlib>=3.7
 tabulate>=0.9
 pytest>=7.0
+requests>=2.31
+rdrobust>=2.1
+rddensity>=2.4
